@@ -1,0 +1,52 @@
+img.img1{
+    width: 150px;
+    display: block;
+    margin: 10px auto 10px auto;
+}
+
+li{
+    display: inline;
+}
+
+ul{
+    width: 600px;
+    /* border: solid 2px rgb(63, 61, 61); */
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    margin: 20px auto 20px auto;
+    font-size: 23px;
+    text-transform: uppercase;
+    word-spacing: 30px;
+    padding: 10px;
+}
+
+img.img2{
+    width: 500px;
+    display: block;
+    margin: 10px auto 10px auto;
+}
+
+p{
+    text-align: center;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: palevioletred;
+}
+
+div.all{
+    width: 700px;
+    border: double 4px black;
+    margin: 10px auto 10px auto;
+    background-color: white;
+}
+
+body{
+    background-color: rgb(206, 203, 203);
+}
